@@ -1,8 +1,3 @@
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-
-https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)
-
-
 <h1 align="center">Hi 👋, I'm Shadab Baig</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
