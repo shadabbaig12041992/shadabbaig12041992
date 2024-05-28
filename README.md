@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shadab Baig</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
